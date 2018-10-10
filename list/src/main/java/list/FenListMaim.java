@@ -3,11 +3,10 @@ package list;
 import java.util.List;
 
 public class FenListMaim implements fenMagane {
-    List<Fen>
+
+
     public List<Fen> getAll() {
-        for (int i = 0; i < ; i++) {
-            
-        }
+        return null;
     }
 
     public List<Fen> getId() {
